@@ -96,9 +96,9 @@ Fine haptics in the camera app
 
 ## Notes
 
-BSG's Official Telegram Channel: [BSG MGC Public Release Channel](https://t.me/Channel_MGC_BSG)  
+BSG's official Telegram channel: [BSG MGC Public Release Channel](https://t.me/Channel_MGC_BSG)  
 
-For XML Creators: [Noise Models](https://raw.githubusercontent.com/FaridZelli/GCam-Asteroids/refs/heads/main/src/NothingPhone3aPro_Noise_Models_Farid_Zelli.zip)  
+For XML creators: [Noise Models](https://raw.githubusercontent.com/FaridZelli/GCam-Asteroids/refs/heads/main/src/NothingPhone3aPro_Noise_Models_Farid_Zelli.zip)  
 (These are already included with the XML)
 
 Photography credits: [mysteriouscat](https://github.com/icon225) and [ZINHAR](https://github.com/FaridZelli)
