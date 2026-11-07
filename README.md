@@ -5,11 +5,9 @@
 [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/FaridZelli/GCam-Asteroids/total?style=for-the-badge&logo=github&label=Total%20Downloads&labelColor=blue&color=green&cacheSeconds=86400)](https://github.com/FaridZelli/GCam-Asteroids/releases/latest)
 
 ## Release info
-```
-GCam port: BSG 9.4 V38
+
+GCam port: BSG 9.4 V38  
 Style: Detailed / Natural Tones
-Configured modules: Main, Telephoto, Ultrawide, Selfie
-```
 
 ## Installation
 
@@ -27,19 +25,6 @@ Configured modules: Main, Telephoto, Ultrawide, Selfie
 
    Select the XML file you previously downloaded.
 3. Close and re-open GCam, you're done!
-
-## Changelog
-
-- 2025-25: First public release
-- 2025-30: White balance adjustments
-- 2025-35: Exposure adjustments
-- 2025-40: Changed number of HDR frames back to default
-- 2025-45: Selfie overhaul
-- 2026-01: Selfie and ultrawide improvements
-- 2026-05: Dynamic range improvements
-- 2026-10: Tone improvements
-- 2026-15: Dynamic range improvements
-- 2026-40: Updated to BSG 9.4
 
 ## Comparison
 
@@ -84,11 +69,24 @@ Configured modules: Main, Telephoto, Ultrawide, Selfie
   </tr>
 </table>
 
+Photography credits: [mysteriouscat](https://github.com/icon225) and [ZINHAR](https://github.com/FaridZelli)
+
+## Changelog
+
+- 2025-25: First public release
+- 2025-30: White balance adjustments
+- 2025-35: Exposure adjustments
+- 2025-40: Changed number of HDR frames back to default
+- 2025-45: Selfie overhaul
+- 2026-01: Selfie and ultrawide improvements
+- 2026-05: Dynamic range improvements
+- 2026-10: Tone improvements
+- 2026-15: Dynamic range improvements
+- 2026-40: Updated to BSG 9.4
+
 ## Notes
 
 BSG's official Telegram channel: [BSG MGC Public Release Channel](https://t.me/Channel_MGC_BSG)  
 
 For XML creators: [Noise Models](https://raw.githubusercontent.com/FaridZelli/GCam-Asteroids/refs/heads/main/src/NothingPhone3aPro_Noise_Models_Farid_Zelli.zip)  
 (These are already included with the XML)
-
-Photography credits: [mysteriouscat](https://github.com/icon225) and [ZINHAR](https://github.com/FaridZelli)
