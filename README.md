@@ -10,16 +10,6 @@ GCam port: BSG 9.4 V38
 Style: Detailed / Natural Tones
 Configured modules: Main, Telephoto, Ultrawide, Selfie
 ```
-## Features
-```
-Noise models included for all cameras  
-HDR+ Enhanced fine tuning
-Advanced module configuration
-No face smoothing or contrast adjustment
-12 Mbps 4K HEVC OIS video recording  
-Up to 6X smaller video files compared to the stock camera  
-Fine haptics in the camera app  
-```
 
 ## Installation
 
